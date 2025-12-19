@@ -1,0 +1,576 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		3FBAE2482ECA92240029991E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3FBAE2292ECA92230029991E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3FBAE2302ECA92230029991E;
+			remoteInfo = JonesGio_Exercise02;
+		};
+		3FBAE2522ECA92240029991E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3FBAE2292ECA92230029991E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3FBAE2302ECA92230029991E;
+			remoteInfo = JonesGio_Exercise02;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3FBAE2312ECA92230029991E /* JonesGio_Exercise02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JonesGio_Exercise02.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FBAE2472ECA92240029991E /* JonesGio_Exercise02Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JonesGio_Exercise02Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FBAE2512ECA92240029991E /* JonesGio_Exercise02UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JonesGio_Exercise02UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3FBAE2592ECA92240029991E /* Exceptions for "JonesGio_Exercise02" folder in "JonesGio_Exercise02" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 3FBAE2302ECA92230029991E /* JonesGio_Exercise02 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3FBAE2332ECA92230029991E /* JonesGio_Exercise02 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3FBAE2592ECA92240029991E /* Exceptions for "JonesGio_Exercise02" folder in "JonesGio_Exercise02" target */,
+			);
+			path = JonesGio_Exercise02;
+			sourceTree = "<group>";
+		};
+		3FBAE24A2ECA92240029991E /* JonesGio_Exercise02Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = JonesGio_Exercise02Tests;
+			sourceTree = "<group>";
+		};
+		3FBAE2542ECA92240029991E /* JonesGio_Exercise02UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = JonesGio_Exercise02UITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3FBAE22E2ECA92230029991E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3FBAE2442ECA92240029991E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3FBAE24E2ECA92240029991E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3FBAE2282ECA92230029991E = {
+			isa = PBXGroup;
+			children = (
+				3FBAE2332ECA92230029991E /* JonesGio_Exercise02 */,
+				3FBAE24A2ECA92240029991E /* JonesGio_Exercise02Tests */,
+				3FBAE2542ECA92240029991E /* JonesGio_Exercise02UITests */,
+				3FBAE2322ECA92230029991E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3FBAE2322ECA92230029991E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3FBAE2312ECA92230029991E /* JonesGio_Exercise02.app */,
+				3FBAE2472ECA92240029991E /* JonesGio_Exercise02Tests.xctest */,
+				3FBAE2512ECA92240029991E /* JonesGio_Exercise02UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3FBAE2302ECA92230029991E /* JonesGio_Exercise02 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3FBAE25A2ECA92240029991E /* Build configuration list for PBXNativeTarget "JonesGio_Exercise02" */;
+			buildPhases = (
+				3FBAE22D2ECA92230029991E /* Sources */,
+				3FBAE22E2ECA92230029991E /* Frameworks */,
+				3FBAE22F2ECA92230029991E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3FBAE2332ECA92230029991E /* JonesGio_Exercise02 */,
+			);
+			name = JonesGio_Exercise02;
+			packageProductDependencies = (
+			);
+			productName = JonesGio_Exercise02;
+			productReference = 3FBAE2312ECA92230029991E /* JonesGio_Exercise02.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3FBAE2462ECA92240029991E /* JonesGio_Exercise02Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3FBAE25F2ECA92240029991E /* Build configuration list for PBXNativeTarget "JonesGio_Exercise02Tests" */;
+			buildPhases = (
+				3FBAE2432ECA92240029991E /* Sources */,
+				3FBAE2442ECA92240029991E /* Frameworks */,
+				3FBAE2452ECA92240029991E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3FBAE2492ECA92240029991E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3FBAE24A2ECA92240029991E /* JonesGio_Exercise02Tests */,
+			);
+			name = JonesGio_Exercise02Tests;
+			packageProductDependencies = (
+			);
+			productName = JonesGio_Exercise02Tests;
+			productReference = 3FBAE2472ECA92240029991E /* JonesGio_Exercise02Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3FBAE2502ECA92240029991E /* JonesGio_Exercise02UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3FBAE2622ECA92240029991E /* Build configuration list for PBXNativeTarget "JonesGio_Exercise02UITests" */;
+			buildPhases = (
+				3FBAE24D2ECA92240029991E /* Sources */,
+				3FBAE24E2ECA92240029991E /* Frameworks */,
+				3FBAE24F2ECA92240029991E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3FBAE2532ECA92240029991E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3FBAE2542ECA92240029991E /* JonesGio_Exercise02UITests */,
+			);
+			name = JonesGio_Exercise02UITests;
+			packageProductDependencies = (
+			);
+			productName = JonesGio_Exercise02UITests;
+			productReference = 3FBAE2512ECA92240029991E /* JonesGio_Exercise02UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3FBAE2292ECA92230029991E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					3FBAE2302ECA92230029991E = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					3FBAE2462ECA92240029991E = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 3FBAE2302ECA92230029991E;
+					};
+					3FBAE2502ECA92240029991E = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 3FBAE2302ECA92230029991E;
+					};
+				};
+			};
+			buildConfigurationList = 3FBAE22C2ECA92230029991E /* Build configuration list for PBXProject "JonesGio_Exercise02" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3FBAE2282ECA92230029991E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3FBAE2322ECA92230029991E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3FBAE2302ECA92230029991E /* JonesGio_Exercise02 */,
+				3FBAE2462ECA92240029991E /* JonesGio_Exercise02Tests */,
+				3FBAE2502ECA92240029991E /* JonesGio_Exercise02UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3FBAE22F2ECA92230029991E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3FBAE2452ECA92240029991E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3FBAE24F2ECA92240029991E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3FBAE22D2ECA92230029991E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3FBAE2432ECA92240029991E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3FBAE24D2ECA92240029991E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3FBAE2492ECA92240029991E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3FBAE2302ECA92230029991E /* JonesGio_Exercise02 */;
+			targetProxy = 3FBAE2482ECA92240029991E /* PBXContainerItemProxy */;
+		};
+		3FBAE2532ECA92240029991E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3FBAE2302ECA92230029991E /* JonesGio_Exercise02 */;
+			targetProxy = 3FBAE2522ECA92240029991E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3FBAE25B2ECA92240029991E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 49PHY8PGAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = JonesGio_Exercise02/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gio.JonesGio-Exercise02";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3FBAE25C2ECA92240029991E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 49PHY8PGAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = JonesGio_Exercise02/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gio.JonesGio-Exercise02";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3FBAE25D2ECA92240029991E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 49PHY8PGAA;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3FBAE25E2ECA92240029991E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 49PHY8PGAA;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3FBAE2602ECA92240029991E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 49PHY8PGAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gio.JonesGio-Exercise02Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JonesGio_Exercise02.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/JonesGio_Exercise02";
+			};
+			name = Debug;
+		};
+		3FBAE2612ECA92240029991E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 49PHY8PGAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gio.JonesGio-Exercise02Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/JonesGio_Exercise02.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/JonesGio_Exercise02";
+			};
+			name = Release;
+		};
+		3FBAE2632ECA92240029991E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 49PHY8PGAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gio.JonesGio-Exercise02UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = JonesGio_Exercise02;
+			};
+			name = Debug;
+		};
+		3FBAE2642ECA92240029991E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 49PHY8PGAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Gio.JonesGio-Exercise02UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = JonesGio_Exercise02;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3FBAE22C2ECA92230029991E /* Build configuration list for PBXProject "JonesGio_Exercise02" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3FBAE25D2ECA92240029991E /* Debug */,
+				3FBAE25E2ECA92240029991E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3FBAE25A2ECA92240029991E /* Build configuration list for PBXNativeTarget "JonesGio_Exercise02" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3FBAE25B2ECA92240029991E /* Debug */,
+				3FBAE25C2ECA92240029991E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3FBAE25F2ECA92240029991E /* Build configuration list for PBXNativeTarget "JonesGio_Exercise02Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3FBAE2602ECA92240029991E /* Debug */,
+				3FBAE2612ECA92240029991E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3FBAE2622ECA92240029991E /* Build configuration list for PBXNativeTarget "JonesGio_Exercise02UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3FBAE2632ECA92240029991E /* Debug */,
+				3FBAE2642ECA92240029991E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3FBAE2292ECA92230029991E /* Project object */;
+}
